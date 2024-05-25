@@ -90,7 +90,8 @@
 						"y-mm-ddTHH:MM:SSZZ",
 						"ymmddHHMMSSl",
 						"ymmddHHMMSS.l",
-						"'hello' y-m-d"
+						"'hello' y-m-d",
+						"w, dd j y HH:MM:SS 'GMT'"
 					],
 					"enumDescriptions": [
 						"choose this when manually entering your own format above",
@@ -111,7 +112,8 @@
 						"prints as:  2021-08-07T06:01:19-0400",
 						"prints as:  20210807060119538",
 						"prints as:  20210807060119.538",
-						"prints as:  hello 2021-8-7"
+						"prints as:  hello 2021-8-7",
+						"prints as:  Sat, 25 May 2024 07:52:15 GMT"
 					],
 					"editPresentation": "multi-line",
 					"markdownDescription": "Pre-defined formats. IMPORTANT NOTE: __B Custom Format__ overrides this selection. To use one of these pre-defined formats, remove anything manually entered into __B Custom Format__."
